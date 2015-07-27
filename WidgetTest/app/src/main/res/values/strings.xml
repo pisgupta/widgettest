@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WidgetTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="state">
+        <item>Punjab</item>
+        <item>Harityana</item>
+        <item>Jamu</item>
+        <item>Himachal</item>
+        <item>Rajsthan</item>
+        <item>Delhi</item>
+        <item>Chandigarh</item>
+        <item>Bihar</item>
+        <item>Up</item>
+    </string-array>
+</resources>
